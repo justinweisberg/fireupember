@@ -4,3 +4,8 @@ Major Object in Ember:
 	Model - Stores, retrieves, and saves data
 	View - Handles clicks and taps
 	Template - Describes HTML output
+
+running Python SimpleHTTPServer
+
+locahost:3000
+
