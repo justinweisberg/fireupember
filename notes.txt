@@ -1,0 +1,6 @@
+Major Object in Ember:
+	Router - Matches URLs to code objects
+	Controller - Handles actions and passes model data to views
+	Model - Stores, retrieves, and saves data
+	View - Handles clicks and taps
+	Template - Describes HTML output
